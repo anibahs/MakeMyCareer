@@ -8,12 +8,12 @@ MakeMyCareer is a system that will provide suggestions to a user in the form of 
 
 The System will provide -
 
-Prospective Positions or Profiles based on the current skills a user already has, their work experience, expectations, and the demand in the job market. These expectations can include requirements like salary, work-life balance, and ideologies.
+1. Prospective Positions or Profiles based on the current skills a user already has, their work experience, expectations, and the demand in the job market. These expectations can include requirements like salary, work-life balance, and ideologies.
 
-Based on a Target Position, a user will want to know any additional skills missing from their profile. These will be looked up and filtered using the latter parameters, and the user's target companies.
+2. Based on a Target Position, a user will want to know any additional skills missing from their profile. These will be looked up and filtered using the latter parameters, and the user's target companies.
 
-Once the user knows the skills required, they would require trending and quality resources to learn these skills. These will be looked up on the profile and target companies.
+3. Once the user knows the skills required, they would require trending and quality resources to learn these skills. These will be looked up on the profile and target companies.
 
-Additional resources in the form suggestions to add to your profile like personal website, projects, and social media etc to improve the profile. Attributes and features of trending user profiles will be maintained and searched.
+4. Additional resources in the form suggestions to add to your profile like personal website, projects, and social media etc to improve the profile. Attributes and features of trending user profiles will be maintained and searched.
 
-Once they are all set, for a final polishing the user can add trending SEO Keywords to their profile, which the system will provide based on their skills and experience, target companies, target profile and trending user profiles. 
+5. Once they are all set, for a final polishing the user can add trending SEO Keywords to their profile, which the system will provide based on their skills and experience, target companies, target profile and trending user profiles. 
