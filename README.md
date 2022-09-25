@@ -2,7 +2,7 @@
 <br>
 <h2>Description</h2>
 <br>
-<p>Searching for a new job is a huge task. However, when you want a fresh start or a change in your career, you will need help in the form of advice and an outside perspective. When you want to go beyond your current role, and explore new roles, you can achieve it by simply adding a few more skills to the ones you already have under your belt. We have a system that will help you achieve this monumental change.</p>
+<p>Searching for a new job is a huge task. Making a career change is monumental. When you want a fresh start or a change in your career, you will need help in the form of advice and an outside perspective. When you want to go beyond your current role, and explore new roles, you can achieve it by simply adding a few more skills to the ones you already have under your belt. We have a system that will help you achieve this change.</p>
 
 <p>MakeMyCareer is a system that will provide suggestions to a user in the form of prospective careers, positions, skills, and resources to add to their profile based on their current skills, expectations, and the job market. Also, the user will be able to make their profile impressive and enticing to prospective recruiters in terms of their resume, and their online presence for an easy hiring process.</p>
 
@@ -12,7 +12,7 @@
 
 <li>Based on a Target Position, the user will want to know any additional skills missing from their profile. These will be looked up and filtered using the latter parameters, and the user's target companies.</li>
 
-<li>Once the user knows the skills required, they would need trending and quality resources to learn these skills. These will be searched, based on the profile and target companies.</li>
+<li>Once the user knows the skills required, they would need trending and quality resources to learn these skills.</li>
 
 <li>Additional resources like suggestions to add to your profile, for eg, a personal website, projects, social media, etc, to improve their profile. Attributes and features of trending user profiles will be maintained and searched.</li>
 
@@ -26,7 +26,7 @@
     <li>Profiles that match with positions based on skill set, pay scale, work environment, etc. </li>
     <li>Resources that will help in different categories of jobs for different career paths. </li>
     <li>Keywords that relate to particular job profiles for SEO.</li></ul></li>
-<li>2. Data will be sourced from the web using data scraping with Python scripts. The sources will include websites like Indeed, Monster, LinkedIn, Glassdoor, Coursera, Unacademy, Youtube, etc.</li>
+<li>Data will be sourced from the web using data scraping with Python scripts. The sources will include websites like Indeed, Monster, LinkedIn, Glassdoor, Coursera, Unacademy, Youtube, etc.</li>
 </ul>
 </p>
 <br>
