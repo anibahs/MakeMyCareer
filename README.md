@@ -5,7 +5,7 @@ As students and as working professionals, all of us need help in the form of pro
 MakeMyCareer is a system that will provide suggestions to a user in the form of prospective careers, positions, skills, and resources to add those skills to their profile based on their current skills, expectations, and current job market circumstance. Also, the user will be able to make their profile impressive and enticing to prospective recruiters in terms of their resume, their online presence as well as the actual hiring process. 
 
 
-<h2>The System will provide -</h2>
+<h3>The System will provide -</h3>
 
 1. Prospective Positions or Profiles based on the current skills a user already has, their work experience, expectations, and the demand in the job market. These expectations can include requirements like salary, work-life balance, and ideologies.
 
@@ -18,6 +18,6 @@ MakeMyCareer is a system that will provide suggestions to a user in the form of 
 5. Once they are all set, for a final polishing the user can add trending SEO Keywords to their profile, which the system will provide based on their skills and experience, target companies, target profile and trending user profiles. 
 
 
-<h2>Team Members</h2>
+<h3>Team Members</h3>
 
-Shabina Singh (002652525) 
+Shabina Singh                         002652525 
