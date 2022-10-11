@@ -1,12 +1,15 @@
+Project: MakeMyCareer - Career Recommendation System
+Submitted By: Shabina Singh (002652525)
+
 Questions -
 
 As a DevOps Engineer with 7 years of experience, what other career options do I have?
 What job profile will help me have a relaxed work-life balance?
-Which company leading in Data Science follows environment sustainable policies?
+Which company with an opening in Data Science follows environmentally sustainable policies?
 Which technical skills will lead to the top 25% highest paying jobs?
-As a software engineer with skills in python and SQL what other skills do I need to become a data scientist?
-What top 3 websites can I take a free course on Kubernetes?
-How many paid courses are available on Ansible that provide a certificate?
-Which is the most trending course on NLP?
-Which courses on high performance computing are available from reputed universities online?
-List of SEO words for my resume as a Machine Learning Architect?
+What additional skills do I need to become a data scientist if I am already a software developer with skills in Python and SQL and have worked for 5 years?
+Which top 3 websites can I take a free course from on Kubernetes?
+How many paid courses are available on Ansible which provide a certificate?
+Which is the most trending course on Natural Language Processing?
+Which courses on high-performance computing are available from reputed universities online?
+What are some SEO words I can add to my resume as a Machine Learning Architect to float it to the top on job portals?
