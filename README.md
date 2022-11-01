@@ -32,7 +32,7 @@
 <br>
 <h2>Design</h2>
 <br>
-<p><---In Progress---></p>
+<p><----In Progress----></p>
 <br>
 <h2>Team</h2>
 <br>
